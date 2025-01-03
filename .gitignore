@@ -10,6 +10,7 @@ android/
 
 # Optional npm cache directory
 .npm
+.angular
 
 # Optional REPL history
 .node_repl_history
